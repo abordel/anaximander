@@ -2,3 +2,4 @@
 gmt.history
 __pycache__
 data/
+*.pyc
