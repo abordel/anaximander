@@ -1,0 +1,4 @@
+.DS_Store
+gmt.history
+__pycache__
+data/
